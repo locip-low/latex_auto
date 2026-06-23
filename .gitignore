@@ -1,0 +1,30 @@
+﻿# Codex
+.codex/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.run.xml
+*-blx.bib
+
+# Output PDF (regenerate with XeLaTeX)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
